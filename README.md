@@ -6,10 +6,10 @@ Dataset from City of Chicago Data Portal: https://data.cityofchicago.org/Transpo
 
 ## Data Cleaning 
 
-# Data Analysis 
+## Data Analysis 
 
-# Visualizations 
+## Visualizations 
 
-# Conclusions 
+## Conclusions 
 
-# Recommendations
+## Recommendations
